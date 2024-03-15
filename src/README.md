@@ -1,6 +1,15 @@
 # Source Code
 
-## Main Features
+## Pre-Development Features
+
+* Wireframing / Prototyping
+  * Should allow for the creation of wireframes and prototypes
+  * Should allow for the creation of 2D and 3D wireframes and prototypes
+  * Should allow for the creation of wireframes and prototypes for all other features
+* Project Management
+  * Will have an integration with `git` for version control
+
+## Development Features
 
 ### Objects
 
@@ -52,3 +61,19 @@
 * Logic Creation / Editing
   * Default language will be custom block-based language built using Rust
     * Will also support programming in Rust, C, and C++
+* Adding support for proprietary features
+  * Will allow for easy integration of NVIDIA, AMD, and Intel features
+  * Will allow for easy integration of console-specific features
+* Performance Profiling
+  * Should allow for the collection of data from the game
+  * Should allow for the analysis of the collected data
+* Performance Optimization Recommendations
+  * Should generate recommendations for performance optimization based on the collected data in performance profiling
+
+## Post-Development Features
+
+* Analytics
+  * Should allow for the collection of data from the game
+  * Should allow for the analysis of the collected data
+* Monetization
+  * Should allow for the integration of in-app purchases
