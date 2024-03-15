@@ -14,6 +14,13 @@
   * Closely integrated with Material Creation / Editing
   * Should take advantage of the static mesh UV/Texture Mapping
 * Material Creation / Editing
+  * Allow for the creation of PBR materials
+  * Should take advantage of the static mesh UV/Texture Mapping
+  * Should allow for usage of dynamically generated materials
+  * Can be created using pre-created textures
+  * Will be created using a node-based system
+  * Changes can be viewed in real-time
+  * Meshes can be imported to see how the material will look on the mesh
 
 ### Characters
 
